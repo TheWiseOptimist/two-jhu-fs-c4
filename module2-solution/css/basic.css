@@ -1,1 +1,15 @@
-
+@media (min-width: 768px) {
+	.container {
+		width: 750px;
+	}
+}
+@media (min-width: 992px) {
+	.container {
+		width: 970px;
+	}
+}
+div{
+	background-color: #80ced6;
+	border: 1px dashed #ff0000;
+	margin-bottom: 15px;
+}
